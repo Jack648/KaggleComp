@@ -7,8 +7,5 @@ This repository contains my solution for a Kaggle regression/classification comp
 - Models: Logistic Regression, SVM, KNN, Random Forest
 - Evaluation: Accuracy, Cross-validation
 
-## Notebook
-The `kaggle_solution.ipynb` notebook contains all code and analysis.
-
-## Results
-Achieved [insert accuracy/performance metric if known].
+ 
+ 
